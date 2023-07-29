@@ -51,8 +51,7 @@ Open a terminal into project directory and type:
    ```bash
    python main.py -g genome_file -s sequences_file -o output_file
    ```
-   
-Example:
+   Example:
    ```bash
    python main.py -g data/genome.fasta -s data/sequences.txt -o output/match.txt
    ```
